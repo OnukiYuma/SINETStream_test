@@ -26,13 +26,6 @@ under the License.
 **お知らせ `2024-03-29`** [SINETStreamの1.9版を公開](docs/news/20240329-release_v19.md)いたしました。<br/>
 お知らせ `2023-05-30` [SINETStreamの1.8版を公開](docs/news/20230526-release_v18.md)いたしました。<br/>
 お知らせ `2022-09-22` [SINETStreamの1.7版を公開](docs/news/20220922-release_v17.md)いたしました。<br/>
-お知らせ `2022-04-27` [SINETStreamデモパッケージ最新版公開](docs/news/20220427-release-demo.md)いたしました。<br/>
-お知らせ `2021-12-23` [SINETStreamの1.6版を公開](docs/news/20211223-release_v16.md)いたしました。<br/>
-お知らせ `2021-03-24` [SINETStreamの1.5版を公開](docs/news/20210324-release_v15.md)いたしました。<br/>
-お知らせ `2020-10-08` [SINETStreamの1.4版を公開](docs/news/20200731-release_v14.md)いたしました。<br/>
-お知らせ `2020-10-07` SINETStreamのgithubのデフォルトブランチがmasterからmainに変わりました。<br/>
-お知らせ `2020-07-31` [SINETStreamの1.3版を公開](docs/news/20200731-release_v13.md)いたしました。<br/>
-お知らせ `2020-06-09` [SINETStreamの1.2版を公開](docs/news/20200609-release_v12.md)いたしました。<br/>
 
 ## SINETStreamとは
 
