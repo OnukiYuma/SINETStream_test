@@ -19,7 +19,7 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-[English](index.en.md)
+[English](index.en)
 
 ## News
 
