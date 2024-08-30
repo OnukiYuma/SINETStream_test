@@ -11,24 +11,19 @@ header a {
     color:red;
 }
 
-/* -------------------- */
-/* ▼メニューバーの装飾 */
-/* -------------------- */
 ul.ddmenu {
    margin: 0px;               /* メニューバー外側の余白(ゼロ) */
    padding: 0px 0px 0px 15px; /* メニューバー内側の余白(左に15px) */
    background-color: #cc0000; /* バーの背景色(濃い赤色) */
 }
 
-/* -------------------------- */
-/* ▼メインメニュー項目の装飾 */
-/* -------------------------- */
 ul.ddmenu li {
    width: 125px;          /* メニュー項目の横幅(125px) */
    display: inline-block; /* ★横並びに配置する */
    list-style-type: none; /* ★リストの先頭記号を消す */
    position: relative;    /* ★サブメニュー表示の基準位置にする */
 }
+
 ul.ddmenu a {
    background-color: #cc0000; /* メニュー項目の背景色(濃い赤色) */
    color: white;              /* メニュー項目の文字色(白色) */
@@ -38,14 +33,12 @@ ul.ddmenu a {
    font-weight: bold;         /* 太字にする */
    display: block;            /* ★項目内全域をリンク可能にする */
 }
+
 ul.ddmenu a:hover {
    background-color: #ffdddd; /* メニュー項目にマウスが載ったときの背景色(淡いピンク) */
    color: #dd0000;            /* メニュー項目にマウスが載ったときの文字色(濃い赤色) */
 }
 
-/* -------------------- */
-/* ▼サブメニューの装飾 */
-/* -------------------- */
 ul.ddmenu ul {
    margin: 0px;         /* ★サブメニュー外側の余白(ゼロ) */
    padding: 0px;        /* ★サブメニュー内側の余白(ゼロ) */
