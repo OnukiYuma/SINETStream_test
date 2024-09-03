@@ -14,12 +14,17 @@ header a {
 ul.ddmenu {
    margin: 0px;
    padding: 0px 0px 0px 15px;
+   text-align: center;
+   background-color: #159957;
+   background-image: linear-gradient(120deg, #155799, #159957); 
 }
 
 ul.ddmenu li {
-   width: 125px;
+   width: 230px;
    display: inline-block;
    list-style-type: none;
+   border: solid;
+   border-color: blue;
    position: relative;
 }
 
@@ -33,8 +38,8 @@ ul.ddmenu a {
 }
 
 ul.ddmenu a:hover {
-   background-color: #ffdddd;
-   color: #dd0000;
+   background-color: #17569a;
+   color: #00ddff;
 }
 
 ul.ddmenu ul {
@@ -49,7 +54,7 @@ ul.ddmenu li:hover > ul {
 }
 
 ul.ddmenu ul li {
-   width: 135px;
+   width: 230px;
    border-top: 1px solid pink;
 }
 
