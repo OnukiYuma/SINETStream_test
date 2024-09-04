@@ -23,8 +23,6 @@ ul.ddmenu li {
    width: 230px;
    display: inline-block;
    list-style-type: none;
-   border: solid;
-   border-color: blue;
    position: relative;
 }
 
@@ -38,8 +36,8 @@ ul.ddmenu a {
 }
 
 ul.ddmenu a:hover {
-   background-color: #17569a;
-   color: #00ddff;
+   background-color: #f9f980;
+   color: #00aaff;
 }
 
 ul.ddmenu ul {
@@ -47,6 +45,7 @@ ul.ddmenu ul {
    padding: 0px;
    display: none;
    position: absolute;
+   background-color: #158077;
 }
 
 ul.ddmenu li:hover > ul {
@@ -55,7 +54,7 @@ ul.ddmenu li:hover > ul {
 
 ul.ddmenu ul li {
    width: 230px;
-   border-top: 1px solid pink;
+   border-top: 1px solid white;
 }
 
 ul.ddmenu ul li a {
@@ -66,8 +65,8 @@ ul.ddmenu ul li a {
 }
 
 ul.ddmenu ul li a:hover {
-   background-color: #ffff80;
-   color: #005500;
+   background-color: #f9f980;
+   color: #00aaff;
 }
 
 ul.ddmenu ul ul {
@@ -77,5 +76,5 @@ ul.ddmenu ul ul {
    position: absolute;
    top: -1px;
    left: 100%;
-   border-left: 1px solid pink;
+   border-left: 1px solid white;
 }
